@@ -9,14 +9,20 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@mui/material": "^7.3.4",
+    "@mui/styled-engine-sc": "^7.3.3",
+    "bootstrap": "^5.3.8",
+    "bootstrap-icons": "^1.13.1",
+    "next": "14.2.31",
     "react": "^18",
+    "react-bootstrap": "^2.10.10",
     "react-dom": "^18",
-    "next": "14.2.31"
+    "styled-components": "^6.1.19"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
-    "@types/react-dom": "^18"
+    "@types/react-dom": "^18",
+    "typescript": "^5"
   }
 }
